@@ -3,7 +3,7 @@
 UNAJ
 Omar Castillo Alarcon 
 aka Omartux
-gnu.omar@gmail.com
+and the Crew from UNAJ
 """
 import cv2 as cv
 import numpy as np
